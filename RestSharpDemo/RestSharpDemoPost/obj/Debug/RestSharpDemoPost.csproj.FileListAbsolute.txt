@@ -1,0 +1,2 @@
+C:\Users\brcaetanoferreira\Desktop\RestSharpDemo\RestSharpDemoPost\obj\Debug\RestSharpDemoPost.csprojAssemblyReference.cache
+C:\Users\brcaetanoferreira\Desktop\RestSharpDemo\RestSharpDemoPost\obj\Debug\RestSharpDemoPost.csproj.CoreCompileInputs.cache
